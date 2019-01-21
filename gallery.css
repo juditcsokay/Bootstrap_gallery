@@ -1,0 +1,76 @@
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #777173;
+	background: #F0F0F0;
+}
+
+.navbar-inverse {
+	background: #B7B0A8;
+  border: 0px;
+}
+
+@font-face {
+  font-family: League Spartan;
+  src: url(LeagueSpartan-Bold.otf);
+}
+
+#title {
+  font-family: League Spartan;
+  text-transform: uppercase;
+  font-size: 56px;
+}
+
+#text {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+}
+
+a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.image1 {
+  background-image: url(https://images.pexels.com/photos/1652402/pexels-photo-1652402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image2 {
+  background-image: url(https://images.pexels.com/photos/6666/coffee-cup-mug-apple.jpg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image3 {
+  background-image: url(https://images.pexels.com/photos/6332/coffee-cup-books-home.jpg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image4 {
+  background-image: url(https://images.pexels.com/photos/545048/pexels-photo-545048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image5 {
+  background-image: url(https://images.pexels.com/photos/1005058/pexels-photo-1005058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image6 {
+  background-image: url(https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image7 {
+  background-image: url(https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image8 {
+  background-image: url(https://images.pexels.com/photos/6273/home-decoration-interior-decor.jpg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+.image9 {
+  background-image: url(https://images.pexels.com/photos/5939/blue-glass-flower-decoration.jpg?auto=compress&cs=tinysrgb&h=650&w=940);
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
